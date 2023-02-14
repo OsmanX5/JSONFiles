@@ -1,0 +1,25 @@
+{
+  "paintings" :[
+      {"paint_id" : "1",
+       "Paint_name" :"Car in dark",
+        "Auther" : "Auth1",
+        "URL" : "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {"paint_id" : "2",
+       "Paint_name" :"City",
+        "Auther" : "Auth2",
+        "URL" : "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {"paint_id" : "3",
+       "Paint_name" :"Bridge",
+        "Auther" : "Auth3",
+        "URL" : "https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {"paint_id" : "3",
+       "Paint_name" :"Sky",
+        "Auther" : "Auth4",
+        "URL" : "https://images.pexels.com/photos/1229042/pexels-photo-1229042.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      }
+  ]
+  
+}
